@@ -1,0 +1,12 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+
+    { "type": "Feature", "properties": { "availability": 0.75 }, "geometry": { "type": "Point", "coordinates": [79.85,13.35] }},
+    { "type": "Feature", "properties": { "availability": 0.65 }, "geometry": { "type": "Point", "coordinates": [79.90,13.25] }},
+    { "type": "Feature", "properties": { "availability": 0.60 }, "geometry": { "type": "Point", "coordinates": [80.00,13.10] }},
+    { "type": "Feature", "properties": { "availability": 0.55 }, "geometry": { "type": "Point", "coordinates": [79.80,13.12] }},
+    { "type": "Feature", "properties": { "availability": 0.45 }, "geometry": { "type": "Point", "coordinates": [80.10,13.20] }}
+
+  ]
+}

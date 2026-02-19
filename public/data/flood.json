@@ -1,0 +1,13 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+
+    { "type": "Feature", "properties": { "risk": 0.85 }, "geometry": { "type": "Point", "coordinates": [79.60,13.35] }},
+    { "type": "Feature", "properties": { "risk": 0.75 }, "geometry": { "type": "Point", "coordinates": [79.65,13.20] }},
+    { "type": "Feature", "properties": { "risk": 0.70 }, "geometry": { "type": "Point", "coordinates": [79.70,13.05] }},
+    { "type": "Feature", "properties": { "risk": 0.60 }, "geometry": { "type": "Point", "coordinates": [79.75,13.28] }},
+    { "type": "Feature", "properties": { "risk": 0.55 }, "geometry": { "type": "Point", "coordinates": [79.68,13.15] }},
+    { "type": "Feature", "properties": { "risk": 0.65 }, "geometry": { "type": "Point", "coordinates": [79.72,13.40] }}
+
+  ]
+}
